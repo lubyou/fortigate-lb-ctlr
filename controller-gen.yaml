@@ -10,7 +10,7 @@ controllerextra: |
   ActiveNodes      map[string]string
   ActiveNodesMutex sync.Mutex
 imports: |
-  "github.com/Nexinto/go-fortigate-client/fortigate"
+  "github.com/lubyou/go-fortigate-client/fortigate"
   "sync"
 clientsets:
 - name: kubernetes

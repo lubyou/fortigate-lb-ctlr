@@ -23,7 +23,7 @@ import (
 
 	ipamclientset "github.com/Nexinto/k8s-ipam/pkg/client/clientset/versioned"
 
-	"github.com/Nexinto/go-fortigate-client/fortigate"
+	"github.com/lubyou/go-fortigate-client/fortigate"
 	ipamv1 "github.com/Nexinto/k8s-ipam/pkg/apis/ipam.nexinto.com/v1"
 	ipaminformers "github.com/Nexinto/k8s-ipam/pkg/client/informers/externalversions"
 	ipamlisterv1 "github.com/Nexinto/k8s-ipam/pkg/client/listers/ipam.nexinto.com/v1"
