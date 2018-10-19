@@ -11,7 +11,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/Nexinto/go-fortigate-client/fortigate"
+	"github.com/lubyou/go-fortigate-client/fortigate"
 
 	"k8s.io/apimachinery/pkg/api/errors"
 	"k8s.io/client-go/kubernetes"

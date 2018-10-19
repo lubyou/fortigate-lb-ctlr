@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Nexinto/go-fortigate-client/fortigate"
+	"github.com/lubyou/go-fortigate-client/fortigate"
 
 	"github.com/Nexinto/k8s-lbutil"
 
